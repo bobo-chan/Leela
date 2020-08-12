@@ -1,0 +1,121 @@
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.whiteborder {
+    border: 2px solid white;
+}
+.blackborder {
+    border: 1px solid black;
+}
+.greyborder {
+    border: 2px solid #3d4e5e;
+}
+.subtitles {
+    font-size: 25px;
+}
+.uppercase {
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.bgdanger {
+    background: rgba(238, 78, 78);
+}
+.colorPictogram i {
+    color: #df6359;
+}
+.textColor {
+    color: #84899c;
+}
+.greyBold {
+    font-weight: bold;
+}
+.bgOne {
+    background-color: #502f4e;
+}
+.textOne {
+    color: #9b6d77;
+}
+.colorFont i{
+    color: #e06458;
+}
+.bgContact {
+    background-color: #343a40;
+}
+.textContact {
+    color: #3d4e5e;
+}
+.colorButton {
+    color: #53687b;
+}
+.socialIcons i {
+    color: #fd7983;
+}
+.carousel-caption {
+    left: 0;
+    padding: 30px;
+    right: 0;
+    bottom: 0;
+}
+.w-100 {
+    height: 400px;
+}
+.carouselContainer {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.nav-item a {
+    color: white;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+.nav-item .active a {
+    background-color: #fd797f;
+}
+.nav-pills .nav-link.active {
+    background-color: #fd797f;
+}
+.bgOurTeam {
+    background: linear-gradient(rgba(25,16,41,0.7),rgba(98,96,120,0.6)),url("../assets/images/background.jpg") fixed center no-repeat;
+    min-height: 500px;
+}
+.carousel-control-next {
+    color: #e06458;
+}
+ol.carouselindicatorsIcons  {
+    margin-bottom: -3rem;
+}
+.navbar-toggler {
+    position: absolute;
+    right: -100px;
+    margin-top: -30px;
+}
+.btn-primary {
+    background-color: #53687b;
+    border-color: #53687b;
+}
+.btn {
+    border-radius: 0;
+}
+.navbarIcon {
+    color: white;
+    font-size: 40px;
+}
+.navbar-toggler {
+    border: none;
+    position: absolute;
+    right: 26px;
+    margin-top: -35px;
+}
+a.text-light:hover {
+    background-color: #fd797f !important;
+    color: white !important;
+}
